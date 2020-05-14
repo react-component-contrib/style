@@ -1,0 +1,10 @@
+{
+  "name": "@react-component-contrib/style",
+  "version": "0.0.1",
+  "description": "This is react components less style",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
